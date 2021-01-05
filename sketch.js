@@ -14,7 +14,7 @@ function setup() {
 }
 
 function draw() {
-  background("silver");  
+  background("lightpink");  
 
   //movingRect.x = World.mouseX;
   //movingRect.y = mouseY;
